@@ -1,0 +1,21 @@
+h1{
+	font-size: 50px;
+	color: rgba(123, 50, 3, 1.0);
+	letter-spacing: 1rem;
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+
+}
+h2{
+	font-size-adjust: inherit;
+	font-weight: 900;
+	color-rendering: optimizeQuality;
+	color: rgba(0,0,0, 1.0);
+	text-align: center;
+}
+body{
+	/*text-align: center;*/
+	height: 900px;
+	/*background-repeat: cover no-repeat;*/
+	background:  linear-gradient(to top right, #ff34e2, #0061A5);
+}
